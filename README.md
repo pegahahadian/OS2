@@ -43,5 +43,7 @@ Each line represents a process, and the values are space-separated. The first th
 ## Output
 
 The program will output whether the system is in a safe state or not. If it is in a safe state, it will display the safe sequence of processes.
+
+
 Output is in result.png file.
 
